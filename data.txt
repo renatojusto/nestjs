@@ -1,0 +1,21 @@
+[{
+    "name": "O universo do desenvolvimento no Mercado Livre"
+},
+{
+    "name": "O ecossistema de frameworks Javascript"
+},
+{
+    "name": "As grandes oportunidades para Full Cycle Developerst"
+},
+{
+    "name": "Serverless, o mínimo que todo dev precisa saber"
+},
+{
+    "name": "Produtividade eXtrema com Python e Django"
+},
+{
+    "name": "DevOps e Containers: do Docker ao Kubernetes"
+},
+{
+    "name": "Microsserviços e Integração Contínua com Sonarqube + Surprise"
+}]
